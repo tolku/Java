@@ -1,4 +1,8 @@
-/currencies.iml
+
+
+**/workspace.xml
+**/tasks.xml
+
 /src/.idea/
 /src/out/
 /src/currencies.iml
