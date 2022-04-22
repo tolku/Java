@@ -3,4 +3,4 @@ currencies/.idea/
 currencies/src/.idea
 hhh.iml
 
-**/DS_Store
+**/.DS_Store
