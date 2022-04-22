@@ -1,12 +1,4 @@
-**/.DS_Store
-
-**/workspace.xml
-**/tasks.xml
-
-/src/.idea/
-/src/out/
-/src/currencies.iml
-
-hhh/currencies/currencies.iml
-hhh/currencies/src/.idea
-hhh/currencies/.idea
+.idea/
+currencies/.idea/
+currencies/src/.idea
+hhh.iml
